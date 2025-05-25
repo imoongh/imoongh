@@ -11,13 +11,14 @@ I'm a **Senior Scientist** (Electrochemist) and a passionate **Python developer*
 
 ## 🚀 What I'm Working On
 
-- Building a portfolio of data science projects, including:
-  - Projects from a recent data science course
-  - Public battery / energy storage datasets: EDA, data engineering, extracting meaningful insights
+I'm currently building a portfolio of data science projects, but this is still a work and progress and I have it all as private for now. Willing to share in specific cases, but will only make these public when I'm happier with them. I'm working on:
+  - Projects from a recent data science course. 
+  - Public battery / energy storage datasets: EDA, data engineering, extracting meaningful insights.
+  - Huckleberry data: predicting sleep patterns from historic data.
 
 ## 📈 Latest Project
 
-Currently, I'm working on 2 different projects:
+Currently, I'm working on 2 new projects:
 *  **energy storage devices**: find public dataset, preferably including electrochemical and other characterisation data, extract as much meaningful information as possible.
 *  explore using **Huckleberry** data to predict sleep schedules (IYKYK!) 💤
 
